@@ -1,4 +1,4 @@
-class Modala {
+class ironDocks {
     constructor(value, tempTag, root, id) {
         this.create(value, tempTag, root, id);
     }
