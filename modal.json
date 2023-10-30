@@ -1,0 +1,6 @@
+{
+    "test":{
+        "js": "modala.js",
+        "select": "key:value;key2:val2;"
+    }
+}
