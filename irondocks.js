@@ -65,5 +65,5 @@ class ironDocks {
 
 }
 
-export { Modala };
+export { irondocks };
 
