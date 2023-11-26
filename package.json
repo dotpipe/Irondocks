@@ -1,0 +1,35 @@
+{
+  "name": "irondocks",
+  "version": "1.0.0",
+  "description": "JSON HTML Templating (fixed)",
+  "main": "irondocks.js",
+  "scripts": {
+    "test": "const f = new irondocks(modal.json, document.body);"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irondocks/irondocks.git"
+  },
+  "keywords": [
+    "html",
+    "template",
+    "json",
+    "javascript",
+    "going",
+    "bonkers",
+    "trying",
+    "to",
+    "code",
+    "this",
+    "good"
+  ],
+  "author": "Anthony David Pulse, Jr.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/irondocks/irondocks/issues"
+  },
+  "homepage": "https://github.com/irondocks/irondocks#readme",
+  "dependencies": {
+    "irondocks": "^1.0.0"
+  }
+}
